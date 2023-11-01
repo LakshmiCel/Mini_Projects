@@ -1,0 +1,32 @@
+button{
+    width:8rem;
+    padding:1rem;
+    font-weight:bolder;
+}
+*{
+    color:#ffffff;
+}
+*::selection{
+    color:#000000;
+    background-color: #ffff00;
+}
+button{
+    color:#000000;
+}
+body{
+    background-color: #17cb77;
+}
+div{
+    font-size:2rem;
+}
+hr{
+    height:10%;
+    border:2px solid #fffcfcee
+}
+.result{
+    background-color:#ffffff;
+    width:10rem;
+    height:30px;
+    position:relation;
+    margin-top:-30px;
+}
